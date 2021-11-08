@@ -1,6 +1,4 @@
-## Hi there 👋 
-
-------------
+## Hello 👋
 
 ### Notes pour moi-même :
 
