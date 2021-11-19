@@ -11,7 +11,9 @@
 
 <img src="https://user-images.githubusercontent.com/75064346/140812082-890fef38-c39b-4f66-9017-12036f74dbb5.png" width="25"> [@warmich](https://github.com/warmich)
 
-<img src="https://user-images.githubusercontent.com/75064346/140813125-e3a34221-757e-4fae-860b-4627d984d0f1.png" width="20"> [Curriculum-vitae](https://bit.ly/3H1EFQA)
+<img src="https://user-images.githubusercontent.com/75064346/142589157-72169b73-5f44-4cdb-b664-4729ae479c24.png" width="20"> [myHardSkills](https://bit.ly/3H1EFQA)
+
+<img src="https://user-images.githubusercontent.com/75064346/140813125-e3a34221-757e-4fae-860b-4627d984d0f1.png" width="20"> [Curriculum-vitae](https://www.doyoubuzz.com/sebastien-paquet)
 
 <img src="https://user-images.githubusercontent.com/75064346/140804120-8d63a24a-eadd-4df2-96a9-341a68c10e31.png" width="25"> [@warmichlive#0919](https://discord.com/channels)
 
